@@ -29,8 +29,5 @@
   { "name": "Al Alam", "src": "https://live2.alalam.ir/live/Alalam/index.m3u8" },
   { "name": "Asharq News", "src": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8" },
   { "name": "i24 News", "src": "https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8" },
-  { "name": "Asharqiya", "src": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w2062095183.m3u8" },
-  { "name": "Al Quran", "src": "https://ktvlive.online/stream/hls/ch1.m3u8" },
-  { "name": "France 24 Français", "src": "http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8" },
-  { "name": "France 24 English", "src": "http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8" }
+  { "name": "Asharqiya", "src": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w2062095183.m3u8" }
 ]
