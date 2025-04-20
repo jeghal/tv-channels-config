@@ -1,0 +1,11 @@
+{
+    "id": "com.app.jeghal",
+    "version": "1.0.0",
+    "vendor": "jeghal",
+    "type": "web",
+    "main": "index.html",
+    "title": "Live Arab TV",
+    "icon": "icon.png",
+    "bgColor": "#000000",
+    "resolution": "1920x1080"
+}

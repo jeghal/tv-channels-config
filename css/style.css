@@ -1,0 +1,128 @@
+:root {
+  --bg-dark: #000;
+  --bg-sidebar: linear-gradient(180deg,#111,#222);
+  --btn-bg: #1a1a1a;
+  --btn-hover: #2a2a2a;
+  --btn-active: #3a3a3a;
+  --white: #fff;
+  --transition: 0.2s;
+  --font-main: 2rem;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg-dark);
+  color: var(--white);
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.container.loaded {
+  opacity: 1;
+}
+
+aside {
+  flex: 0 0 20%;
+  max-width: 300px;
+  background: var(--bg-sidebar);
+  overflow-y: auto;
+  padding: 1rem;
+  box-shadow: 2px 0 15px rgba(0,0,0,0.7);
+}
+
+.channel-list {
+  list-style: none;
+}
+.channel-list button {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 0.5rem;
+  padding: 1rem;
+  background: var(--btn-bg);
+  border: none;
+  border-radius: 8px;
+  font-size: var(--font-main);
+  text-align: left;
+  color: var(--white);
+  cursor: pointer;
+  transition: transform var(--transition), background var(--transition);
+}
+.channel-list button:focus,
+.channel-list button:hover {
+  transform: scale(1.05);
+  background: var(--btn-hover);
+  outline: 2px solid var(--white);
+}
+.channel-list button.active {
+  background: var(--btn-active);
+}
+
+main {
+  flex: 1;
+  position: relative;
+  background: var(--bg-dark);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.video-container.fullscreen {
+  width: 100vw;
+  height: 100vh;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.loader {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+.loader.hidden {
+  display: none;
+}
+
+.spinner {
+  width: 60px;
+  height: 60px;
+  border: 6px solid #444;
+  border-top: 6px solid var(--white);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+
+
+@media (min-width: 1600px) {
+  :root { --font-main: 2.5rem; }
+  aside { flex: 0 0 15%; }
+}
