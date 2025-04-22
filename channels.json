@@ -1,6 +1,6 @@
 [
   { "name": "Al Aoula", "src": "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8" },
-  {"name": "2M Monde", "src": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"},
+  {"name": "2M Monde", "src": "https://jeghal.github.io/tv-channels-config/proxy.php"},
   { "name": "Al Maghribia", "src": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8" },
   { "name": "Arryadia", "src": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8" },
   { "name": "Atakafia", "src": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8" },
