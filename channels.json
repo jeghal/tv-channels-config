@@ -35,7 +35,7 @@
   { "name": "Al Araby TV 2",                         "src": "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8" },
   { "name": "Al Jazeera DOC",      "src": "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8" },
   { "name": "Al Jazeera Documentary","src":"https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8" },
-  { "name": "Makkah",              "src": "https://edge.taghtia.com/sa/7.m3u8" },
+  { "name": "Makkah",              "src": "http://m.live.net.sa:1935/live/quran/playlist.m3u8" },
   { "name": "Medina",              "src": "https://edge.taghtia.com/sa/6.m3u8" },
   { "name": "National Geographic", "src": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8" },
   { "name": "Al Araby",            "src": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8" },
