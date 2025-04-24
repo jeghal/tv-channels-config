@@ -13,8 +13,7 @@
   { "name": "MBC 5",               "src": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8" },
   { "name": "Chada TV",            "src": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8" },
   { "name": "Al Aoula Laâyoune",   "src": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8" },
-  { "name": "Al Jazeera Arabic",                     "src": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8" },
-  { "name": "Al Jazeera",                            "src": "http://ott-cdn.ucom.am/s23/index.m3u8" },
+  { "name": "Al Jazeera Arabic",                     "src": "https://live-hls-web-aja-fa.thehlive.com/AJA/01.m3u8" },
   { "name": "Al Jazeera Mubasher",                   "src": "https://live-hls-web-ajm.getaj.net/AJM/01.m3u8" },
   { "name": "Al Jazeera Mubasher 24",                "src": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8" },
   { "name": "Al Jazeera Mubasher Broadcast 2",        "src": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8" },
@@ -32,7 +31,6 @@
   { "name": "Al Araby TV",                           "src": "https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8" },
   { "name": "Al Araby TV 2",                         "src": "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8" },
   { "name": "Al Jazeera DOC",      "src": "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8" },
-  { "name": "Al Jazeera Documentary","src":"https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8" },
   { "name": "Makkah",              "src": "http://m.live.net.sa:1935/live/quran/playlist.m3u8" },
   { "name": "Medina",              "src": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8" },
   { "name": "National Geographic", "src": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8" },
@@ -40,8 +38,5 @@
   { "name": "Al Hayat TV",         "src": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8" },
   { "name": "Al Hora",             "src": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8" },
   { "name": "Al Alam",             "src": "https://live2.alalam.ir/live/Alalam/index.m3u8" },
-  { "name": "Asharqiya",           "src": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w2062095183.m3u8" },
-  { "name": "RT Documentary",      "src": "https://rt-doc.rttv.com/dvr/rt_doc/playlist.m3u8" },
-  { "name": "Russia Today",        "src": "https://rt.com/live/rt_en.smil/playlist.m3u8" },
-  { "name": "BBC News",            "src": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd" }
+  { "name": "Asharqiya",           "src": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w2062095183.m3u8" }
 ]
