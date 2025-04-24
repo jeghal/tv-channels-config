@@ -30,4 +30,164 @@
   { "name": "Asharq News", "src": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8" },
   { "name": "i24 News", "src": "https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8" },
   { "name": "Asharqiya", "src": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w2062095183.m3u8" }
+    {
+    "name": "2M_Monde",
+    "src": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
+  },
+  {
+    "name": "ABN_Africa",
+    "src": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
+  },
+  {
+    "name": "Abu_Dhabi_Sports_1",
+    "src": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+  },
+  {
+    "name": "Aflam",
+    "src": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8"
+  },
+  {
+    "name": "Africa_24",
+    "src": "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
+  },
+  {
+    "name": "Africa_24_English",
+    "src": "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+  },
+  {
+    "name": "AfricaNews_English",
+    "src": "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8"
+  },
+  {
+    "name": "AfricaNews_Français",
+    "src": "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
+  },
+  {
+    "name": "Afroturk_TV",
+    "src": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
+  },
+  {
+    "name": "Al_Aoula_Laâyoune",
+    "src": "https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8"
+  },
+  {
+    "name": "Al_Aloula",
+    "src": "https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8"
+  },
+  {
+    "name": "Al_Maghribia",
+    "src": "https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8"
+  },
+  {
+    "name": "Arryadia",
+    "src": "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8"
+  },
+  {
+    "name": "Assadissa",
+    "src": "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8"
+  },
+  {
+    "name": "Atakafia",
+    "src": "https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8"
+  },
+  {
+    "name": "Medi1_TV_Arabia",
+    "src": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8"
+  },
+  {
+    "name": "Medi1_TV_Afrique",
+    "src": "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8"
+  },
+  {
+    "name": "MBC_5",
+    "src": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8"
+  },
+  {
+    "name": "M24",
+    "src": "https://67aac8c668349.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1604162890_b1396000.m3u8"
+  },
+  {
+    "name": "Chada_TV",
+    "src": "https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8"
+  },
+  {
+    "name": "Al_Jazeera_Arabic",
+    "src": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+  },
+  {
+    "name": "Al_Jazeera_Mubasher",
+    "src": "https://live-hls-web-ajm.getaj.net/AJM/01.m3u8"
+  },
+  {
+    "name": "Al_Arabiya",
+    "src": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+  },
+  {
+    "name": "Al_Hadath",
+    "src": "https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8"
+  },
+  {
+    "name": "Sky_News_Arabia",
+    "src": "https://stream.skynewsarabia.com/hls/sna_720.m3u8"
+  },
+  {
+    "name": "France_24_Arabic",
+    "src": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8"
+  },
+  {
+    "name": "BBC_Arabic",
+    "src": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
+  },
+  {
+    "name": "RT_Arabic",
+    "src": "https://rt-arb.rttv.com/dvr/rtarab/playlist_2500Kb.m3u8"
+  },
+  {
+    "name": "DW_Arabic",
+    "src": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8"
+  },
+  {
+    "name": "TRT_Arabic",
+    "src": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "Al_Jazeera_DOC",
+    "src": "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8"
+  },
+  {
+    "name": "Makkah",
+    "src": "https://edge.taghtia.com/sa/7.m3u8"
+  },
+  {
+    "name": "Medina",
+    "src": "https://edge.taghtia.com/sa/6.m3u8"
+  },
+  {
+    "name": "National_Geographic",
+    "src": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
+  },
+  {
+    "name": "Al_Araby",
+    "src": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8"
+  },
+  {
+    "name": "Al_Hora",
+    "src": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8"
+  },
+  {
+    "name": "Al_Alam",
+    "src": "https://live2.alalam.ir/live/Alalam/index.m3u8"
+  },
+  {
+    "name": "Asharq_News",
+    "src": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
+  },
+  {
+    "name": "i24_News",
+    "src": "https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
+  },
+  {
+    "name": "Asharqiya",
+    "src": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w2062095183.m3u8"
+  }
 ]
