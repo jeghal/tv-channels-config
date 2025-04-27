@@ -75,6 +75,9 @@
     "name": "TRT Arabic",
     "src": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
   },
+  {"name":"bbc arabic",
+    "src":"https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8"
+  },
   {
     "name": "Jsc DOC",
     "src": "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8"
