@@ -76,6 +76,14 @@
     "src": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
   },
   {
+    "name": "Jsc DOC",
+    "src": "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8"
+  },
+  {
+    "name": "Na Geographic",
+    "src": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
+  },
+  {
     "name": "Asharq News",
     "src": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
   },
@@ -96,20 +104,12 @@
     "src": "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
   },
   {
-    "name": "Jsc DOC",
-    "src": "https://live-hls-web-ajd.getaj.net/AJD/02.m3u8"
-  },
-  {
     "name": "Makkah",
     "src": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
   },
   {
     "name": "Medina",
     "src": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
-  },
-  {
-    "name": "Na Geographic",
-    "src": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
   },
   {
     "name": "Al Hora",
