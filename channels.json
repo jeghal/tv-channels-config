@@ -1,7 +1,7 @@
 [
   {
     "name": "Al Aoula",
-    "src": "https://aloula-proxy.rjeghal.workers.dev/proxy/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8"
+    "src": "https://snrt.player.easybroadcast.io/events/73_aloula_w1dqfwm"
   },
   {
     "name":"2m_monde",
@@ -131,3 +131,4 @@
     "src": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w2062095183.m3u8"
   }
 ]
+
